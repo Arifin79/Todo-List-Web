@@ -92,7 +92,7 @@ body{
     word-wrap: break-word;
 }
 
-.todoList li .icon{
+.todoList li .fas{
     position: absolute;
     right: -45px;
     top: 50%;
@@ -107,7 +107,7 @@ body{
     transition: all 0.2s ease;
 }
 
-.todoList li:hover .icon{
+.todoList li:hover .fas{
     right: 0px;
 }
  
